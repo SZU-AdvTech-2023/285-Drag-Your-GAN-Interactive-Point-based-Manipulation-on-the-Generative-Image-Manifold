@@ -1,0 +1,7 @@
+@inproceedings{REPO285,
+    author = {Pan, Xingang and Tewari, Ayush and Leimk{\"u}hler, Thomas and Liu, Lingjie and Meka, Abhimitra and Theobalt, Christian},
+    booktitle = "ACM SIGGRAPH 2023 Conference Proceedings",
+    pages = "1--11",
+    title = "{Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold}",
+    year = "2023"
+}
