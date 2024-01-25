@@ -1,0 +1,13 @@
+# folder
+.vscode
+.fleet
+.idea
+__pycache__
+checkpoints
+save_images
+wheel
+pretrained_models
+
+# type
+
+# files
